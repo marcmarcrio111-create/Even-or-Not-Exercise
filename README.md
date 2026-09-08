@@ -2,7 +2,7 @@
 Determines to see if a number is odd or not. 
 
 ## How to run
-1. Open the program.
+1. Open or download the program using any IDE such as Google Colab, CodeAI, etc.
 2. Run the program.
 3.  Enter the value (integers).
 4.  Check the result (Even or Odd)
@@ -11,7 +11,7 @@ Determines to see if a number is odd or not.
 ## Sample input
 What is the number?: 7
 
-Even
+7 is an odd number.
 
 ## Author
 Name: Marcelo III O. Rio
