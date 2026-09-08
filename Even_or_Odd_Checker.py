@@ -1,4 +1,4 @@
-#1
+#1 Input the number (the variable is called "even_or_not")
 num = float(input("Enter a number: "))
 
 if num % 2 == 0:
